@@ -1,5 +1,5 @@
 ---
-title: Charles V. Wright
+title: Charles's Homepage
 layout: about
 ---
 
