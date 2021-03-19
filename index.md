@@ -1,6 +1,7 @@
 ---
 title: Charles's Homepage
 layout: about
+image: /assets/images/k-mitch-hodge-gB1_z-QXd-Y-unsplash.1280x360.jpeg
 ---
 
 ## Professional Bio
@@ -78,7 +79,7 @@ Most people just don't know it yet.
 ## Personal
 
 I grew up in rural west Texas, first in a tiny little town outside of
-Wichita Falls, then in Amarillo.
+Wichita Falls, then in Amarillo.[^1]
 
 I lived for 10 years on the East Coast, first 6 years in Baltimore,
 then 4 years in the Cambridge/Somerville/Boston area.
@@ -91,3 +92,6 @@ It's good to be home.
 I am married, with one child and a large goofy dog.
 
 I am a Christian, currently attending a church in the Anglican tradition.
+
+
+[^1]: Palu Duro Canyon photo by [K. Mitch Hodge](https://unsplash.com/@kmitchhodge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/).
