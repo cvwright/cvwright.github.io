@@ -6,13 +6,16 @@ image: /assets/images/k-mitch-hodge-gB1_z-QXd-Y-unsplash.1280x360.jpeg
 
 ## Professional Bio
 
-I am an Associate Professor of Computer Science at Portland State University,
-currently on sabbatical for the 2020-21 academic year.
+I am a Computer Scientist, security & privacy researcher, and most recently
+a software engineer.  I work at [FUTO](https://futo.org/) building ethical
+tech that puts regular people back in control of their own data.
 
-While on sabbatical, I am working on launching my new company, Kombucha
-Digital Privacy Systems.
-We make end-to-end encrypted apps for regular people to protect their
-privacy and that of their family and friends online.
+Prior to joining FUTO, I was an Associate Professor of Computer Science at
+Portland State University from 2012 until 2021.
+I taught courses in computer and network security, and my research included
+encrypted databases and security and privacy for multimedia.
+I started the [Circles](https://gitlab.futo.org/circles/circles-ios)
+project while on sabbatical from PSU during the 2020-21 academic year.
 
 From 2008 - 2012, I was Technical Staff at MIT Lincoln Laboratory.
 I ran technical test and evaluation of various government-sponsored
@@ -58,18 +61,18 @@ what does the middle ground look like?  Are there intermediate points
 in the design space that could be useful?  This is usually a very hard
 question to answer.
 
-I have worked primarily in **Python** since 2005, and it has been amazing
+I have worked largely in **Python** since about 2005, and it has been amazing
 for quickly iterating on crazy new ideas.
 After all, a lot of CS security research is a lot like rapid prototyping.
 Plus, with **matplotlib**, Python is also great for making high quality
 graphs of experimental data.
 
-Lately, I have been working with **Swift** on my iPhone app, and I
+Since about 2019 or 2020, I have also been working with **Swift**, and I
 have to say it's quickly become one of my favorite languages.
 It seems to have just the right mix of power, expressiveness, and
 readability for an old fogey C programmer like me.
 
-I am also using **Matrix** on my new project, and I love it too.
+I am also using **Matrix** on my current projects, and I love it too.
 Matrix is the future of secure, distributed communcation systems.
 Most people just don't know it yet.
 
@@ -85,7 +88,7 @@ I lived for 10 years on the East Coast, first 6 years in Baltimore,
 then 4 years in the Cambridge/Somerville/Boston area.
 I spent 8 years living on the West Coast in beautiful Portland, Oregon.
 
-Now, due to the coronavirus pandemic, we are back in Texas to be
+Now, due to the coronavirus pandemic, we moved back to Texas to be
 closer to family during my sabbatical.
 It's good to be home.
 
